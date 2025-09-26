@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179534811183",
+    "project_id": "connectinnotes",
+    "storage_bucket": "connectinnotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179534811183:android:7c7673e826b624ac44f6da",
+        "android_client_info": {
+          "package_name": "com.furkantumay.connectinnocase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTASYnwEQz5E4y2cBXkKVPTSG9EBegO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
