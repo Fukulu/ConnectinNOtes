@@ -44,10 +44,12 @@ cd connectinnocase
 flutter pub get
 
 .env for Flutter:
+```
 FIREBASE_API_KEY=xxx
 FIREBASE_PROJECT_ID=xxx
 FIREBASE_APP_ID=xxx
 FIREBASE_MESSAGING_SENDER_ID=xxx
+```
 
 flutter run
 
